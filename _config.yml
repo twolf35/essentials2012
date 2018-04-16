@@ -1,3 +1,3 @@
-theme: jekyll-theme-cayman
+remote_theme: https://github.com/yizeng/jekyll-theme-simple-texture
 
 title: A malware-free install for Movie Maker and other Windows Essentials 2012 software.
